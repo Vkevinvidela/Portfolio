@@ -1,0 +1,29 @@
+ body {background-image: url(img/Pelicula/ultraman\ rising\ movie.jpg); background-repeat: no-repeat;background-attachment: fixed; background-size: cover; color: white;
+}
+.img1 {
+    max-width: 100%;
+}
+.contenedor {
+    display: flex;
+    align-items: flex-start;
+}
+.tabla {
+    margin-right:20px;
+    padding: 20px;
+}
+th,td {
+    border: 1px solid;
+    padding: 10px;
+    text-align: center; color: red;
+}
+
+form {
+    text-align: center;
+}
+h1 {text-align: center;
+    color: aqua;
+}
+h2,p {
+    color: aqua;
+    font-size: 25px;
+}

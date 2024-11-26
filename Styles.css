@@ -1,0 +1,57 @@
+body {background-color: black;}
+
+h1,h2 {text-align: center; color: white;}
+
+table {
+    background-color: black; 
+    color: white; 
+    opacity: 0,3; 
+    width: 25%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+th,td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: center; color: white;
+}
+.navbar {
+    background-color: grey;
+    padding: 10px 0;
+}
+.navbar-menu {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.navbar-menu li {
+    margin: 0 15px;
+}
+.navbar-menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+.navbar-menu a:hover {
+    text-decoration: underline;
+    color: aqua;
+}
+
+.ficha { 
+    border: 2px solid black;
+    width: 250px;
+    padding: 10px;
+    text-align: center;
+}
+.ficha img {
+    width: 100%;
+    height: auto;
+}
+.ficha a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.centro {text-align: center;}

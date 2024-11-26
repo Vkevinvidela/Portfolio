@@ -1,0 +1,19 @@
+body {background-image: url(img/turismo/monte-fuji.jpg);background-size: cover;background-repeat: no-repeat;background-attachment: fixed; background-size: cover;
+color: black;}
+
+table { border-collapse: collapse; width: 100%; }
+
+table { width: 100%; border-collapse: collapse; }
+
+th,td { border: 1px solid white; padding: 8px; text-align: center; background-color: black; color: white; }
+
+p,h1,h2,h3{color: white; font-size: 25px;}
+
+li {list-style-type: none; color: white;}
+form { text-align: center; color: white;}
+
+.titulom {text-align: center;}
+.actividades {color: white;}
+.tamaño {font-size: 20px;}
+
+
